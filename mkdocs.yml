@@ -2,15 +2,20 @@ site_name: MahirKart
 theme:
   name: material
   features:
-    # - navigation.tabs
-    - navigation.sections
-    - toc.integrate
-    - navigation.top
-    - search.suggest
-    - search.highlight
-    - content.tabs.link
-    - content.code.annotation
-    - content.code.copy
+    # - navigation.sections
+    # - navigation.top
+    - navigation.path
+    # - navigation.indexes
+
+    # - search.suggest
+    # - search.highlight
+
+    # - content.tabs.link
+    # - content.code.annotation
+    # - content.tooltips
+    # - content.code.annotate
+    # - content.code.copy
+    # - content.code.select
   language: tr
   font:
     text: Coolvetica
@@ -39,4 +44,16 @@ extra:
       link: https://github.com/BilalAlpaslan/MahirKart-docs
     - icon: fontawesome/brands/linkedin
       link: https://github.com/BilalAlpaslan/MahirKart-docs
-  
+nav:
+  - Ana Sayfa: index.md
+  - features.md
+  # - Pinout: pinout.md
+  # - Hızlı Başlangıç: quickstart.md
+  - Kullanım Kılavuzu:
+    - Python: 
+      - userguide/python/quickstart.md
+    - Arduino:
+      - userguide/arduino/quickstart.md
+    - C/C++:
+      - userguide/c/quickstart.md  
+  # - Hata Ayıklama: troubleshoot.md
