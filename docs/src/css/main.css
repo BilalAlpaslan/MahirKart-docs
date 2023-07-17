@@ -1,7 +1,8 @@
-
 @font-face {
-  font-family: "Coolvetica";
-  src: "src/fonts/coolvetica.ttf";
+  src: url("../fonts/coolvetica.ttf");
+  font-weight: normal;
+  font-style: normal;
+  font-family: Coolvetica;
 }
 
 :root {
@@ -11,8 +12,10 @@
 
 [data-md-color-scheme="light"] {
   --md-primary-fg-color:        #ff4900;
+  font-family: var(--md-text-font);
 }
 
 [data-md-color-scheme="slate"] {
   --md-primary-fg-color:        #ff4900;
+  font-family: var(--md-text-font);
 }
