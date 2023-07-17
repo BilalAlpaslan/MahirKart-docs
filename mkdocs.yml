@@ -48,7 +48,7 @@ extra:
     provider: google
     property: G-DEXFWCSC1D
 nav:
-  - Ana Sayfa: index.md
+  - MahirKart: index.md
   - features.md
   # - Pinout: pinout.md
   # - Hızlı Başlangıç: quickstart.md
