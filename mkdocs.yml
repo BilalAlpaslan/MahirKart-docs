@@ -15,18 +15,20 @@ theme:
   font:
     text: Coolvetica
   palette:
-    - scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
-      primary: red
-      accent: purple 
-    - scheme: slate 
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode    
+    - media: "(prefers-color-scheme: light)"
+      scheme: light
       primary: custom
-      accent: lime
+      accent: custom 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate 
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode    
 extra_css:
   - src/css/main.css
 extra:
