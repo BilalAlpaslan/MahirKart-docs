@@ -29,3 +29,12 @@ theme:
       accent: lime
 extra_css:
   - src/css/main.css
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/BilalAlpaslan/MahirKart-docs
+    - icon: fontawesome/brands/instagram
+      link: https://github.com/BilalAlpaslan/MahirKart-docs
+    - icon: fontawesome/brands/linkedin
+      link: https://github.com/BilalAlpaslan/MahirKart-docs
+  
