@@ -44,6 +44,9 @@ extra:
       link: https://github.com/BilalAlpaslan/MahirKart-docs
     - icon: fontawesome/brands/linkedin
       link: https://github.com/BilalAlpaslan/MahirKart-docs
+  analytics:
+    provider: google
+    property: G-DEXFWCSC1D
 nav:
   - Ana Sayfa: index.md
   - features.md
@@ -56,4 +59,4 @@ nav:
       - userguide/arduino/quickstart.md
     - C/C++:
       - userguide/c/quickstart.md  
-  # - Hata Ayıklama: troubleshoot.md
+  # - Hata Ayıklama: troubleshoot.md:
