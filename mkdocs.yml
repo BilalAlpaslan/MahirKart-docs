@@ -2,7 +2,7 @@ site_name: MahirKart
 theme:
   name: material
   features:
-    - navigation.tabs
+    # - navigation.tabs
     - navigation.sections
     - toc.integrate
     - navigation.top
@@ -11,17 +11,21 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-  language: en
+  language: tr
+  font:
+    text: Coolvetica
   palette:
     - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: teal
+      primary: red
       accent: purple 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode    
-      primary: teal
+      primary: custom
       accent: lime
+extra_css:
+  - src/css/main.css
