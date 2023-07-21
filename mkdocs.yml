@@ -50,8 +50,8 @@ extra:
 nav:
   - MahirKart: index.md
   - features.md
-  # - Pinout: pinout.md
-  # - Hızlı Başlangıç: quickstart.md
+  - pinout.md
+  - quickstart.md
   - Kullanım Kılavuzu:
     - Python: 
       - userguide/python/quickstart.md
@@ -59,4 +59,12 @@ nav:
       - userguide/arduino/quickstart.md
     - C/C++:
       - userguide/c/quickstart.md  
-  # - Hata Ayıklama: troubleshoot.md:
+    - Rust:
+      - userguide/rust/quickstart.md
+    - JavaScipt:
+      - userguide/javascript/quickstart.md
+  # - Advanced User Guide
+  # - Blogs
+  # - External Links and Resources
+  # - troubleshoot.md
+  # - faq.md

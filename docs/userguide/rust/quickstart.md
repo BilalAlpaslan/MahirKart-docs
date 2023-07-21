@@ -1,0 +1,1 @@
+# Rust - Hızlı Başlangıç

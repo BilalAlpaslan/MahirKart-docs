@@ -1,13 +1,1 @@
-# baslik
-
-yazi
-
-## alt baslik
-
-yazi
-
-### alt alt baslik
-
-```python
-print("hello world")
-```
+# C - Hızlı Başlangıç# Arduino - Hızlı Başlangıç
