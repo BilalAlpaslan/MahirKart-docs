@@ -65,6 +65,6 @@ nav:
       - userguide/javascript/quickstart.md
   # - Advanced User Guide
   # - Blogs
-  # - External Links and Resources
+  - external-resources.md
   # - troubleshoot.md
   # - faq.md
