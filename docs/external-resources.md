@@ -9,6 +9,7 @@
 - [MahirKart Resmi Web Sitesi](https://mahirkart.net)
 - [MahirKart Resmi Dokümantasyonu](https://docs.mahirkart.net)
 - [MahirKart Resmi Discord Sunucusu](https://discord.gg/37EnEBdX)
+- [MahirKart Örnek projeler Github reposu](https://github.com/BilalAlpaslan/mahirkart-examples)
 
 ## MahirKart ile ilgili harici kaynaklar
 - [Python ile MahirKart Programlama](https://bilalalpaslan.medium.com/mahirkart-ile-micropython-programlama-b9f237b0e50) - Bilal Alpaslan
