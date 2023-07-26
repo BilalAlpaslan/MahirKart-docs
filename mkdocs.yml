@@ -3,6 +3,7 @@ site_description: MahirKart dökümantasyonuna hoşgeldiniz. MahirKart ile ilgil
 theme:
   name: material
   logo: src\svg\mahirkart logo V1.0.1 badge.svg
+  favicon: src\svg\MAHİRKART.svg
   features:
     # - navigation.sections
     # - navigation.top
