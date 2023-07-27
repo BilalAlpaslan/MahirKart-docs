@@ -1,5 +1,6 @@
 # Özellikler
 
+<img src="/src/svg/BluePrintMahirkart.svg" style="width: auto; height: 820px;" />
 
 MahirKartın ana özellikleri şunlardır:
 
@@ -20,3 +21,10 @@ Dahili Birimler:
 - MPU6050 3 Eksenli jiroskop ve ivmeölçer (20. ve 21. pinlerinden I2C0 üzerinden okunabilir.)
 - BME280 Sıcaklık, nem ve basınç sensörü (20. ve 21. pinlerinden I2C0 üzerinden okunabilir.)
 - Harici besleme seviyesinde sürülebilen 2 pin (22. ve 23. pinlerinden okunabilir.)
+
+
+<!-- Fiziksel Özellikler:
+
+- 50mm x 50mm x 10mm boyutlarında   !
+- 10 gram ağırlığında   !
+3d modeli için [tıklayın](/src/3dmodel/mahirkartv0-1-0.stl) -->
