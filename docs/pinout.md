@@ -1,6 +1,6 @@
 # Pinout
 
-<img src="../src/svg/mahirkartv0-1-0-pinout-full-v1-0.svg"  style="width: 100%; height: auto;" />
+<img src="../src/svg/mahirkartv0-1-0-pinout-full-v1-0.svg"  style="width: 100%; height: auto; background-color: #f1f1f1; padding: 20px; border-radius: 10px;" />
 
 
 <!-- download pinout -->
