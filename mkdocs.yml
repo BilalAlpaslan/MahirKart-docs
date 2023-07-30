@@ -1,10 +1,21 @@
 site_name: ' MahirKart'
 site_description: MahirKart dökümantasyonuna hoşgeldiniz. MahirKart ile ilgili tüm bilgileri burada bulabilirsiniz. Aviyonik, robotik, IoT, otomasyon ve daha fazlası için kullanabileceğiniz bir geliştirme kartıdır. Roket kurtarma sistemleri, uydu haberleşme kartı, otopilot sistemleri / uçuş kontrol bilgisayarı, yer istasyonu, su altı, su üstü, denge robotları, drone, akıllı ev sistemleri, akıllı fabrika sistemleri, akıllı tarım sistemleri ve daha fazlası
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
 theme:
   name: material
   logo: src\svg\mahirkart logo V1.0.1 badge.svg
   favicon: src\svg\MAHİRKART.svg
   features:
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
     # - navigation.sections
     # - navigation.top
     - navigation.path
@@ -19,6 +30,7 @@ theme:
     # - content.code.annotate
     # - content.code.copy
     # - content.code.select
+    
   language: tr
   font:
     text: Coolvetica
