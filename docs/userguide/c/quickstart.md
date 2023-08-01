@@ -1,1 +1,1 @@
-# C - Hızlı Başlangıç# Arduino - Hızlı Başlangıç
+# C - Hızlı Başlangıç
