@@ -1,12 +1,12 @@
 # Python - Hızlı Başlangıç
 
-MicroPython, Python programlama dilinin küçük bir sürümüdür ve Mahirkart gibi geliştirme kartlarının üzerinde çalışacak şekilde tasarlanmıştır. 
+MicroPython, Python programlama dilinin küçük bir sürümüdür ve MahirKart gibi geliştirme kartlarının üzerinde çalışacak şekilde tasarlanmıştır. 
 
-Bu rehber, MicroPython ile Mahirkart'ı kullanmaya başlamanıza yardımcı olacaktır. Geliştirme ortamını kurmak, MicroPython'u Mahirkart'a yüklemek ve LED yaktığımı basit bir proje oluşturmak için adım adım talimatlar içerir.
+Bu rehber, MicroPython ile MahirKart'ı kullanmaya başlamanıza yardımcı olacaktır. Geliştirme ortamını kurmak, MicroPython'u MahirKart'a yüklemek ve LED yaktığımı basit bir proje oluşturmak için adım adım talimatlar içerir.
 
 ## Gereksinimler
 
-* Bir Mahirkart
+* Bir MahirKart
 * Bir USB Type-C kablosu
 * Bir bilgisayar
 * Thonny IDE
@@ -23,9 +23,9 @@ https://thonny.org/
 
 Thonny IDE'yi indirdikten sonra, bilgisayarınıza yükleyin.
 
-## Mahirkart'a MicroPython Kurulumu
+## MahirKart'a MicroPython Kurulumu
 
-Mahirkart'ı bilgisayarınıza bağlarken aynı zamanda üzerinde bulunan bootsel düğmesine basın. Bu sayede MahirKart bilgisayarınızda bir USB depolama aygıtı olarak görünecektir. [buraya tıklayarak](https://micropython.org/resources/firmware/rp2-pico-20230426-v1.20.0.uf2) MicroPython'ı indirip USB depolama aygıtına kopyalayarak kurabilirsiniz yada thonny sizin yerinize bu adımı yapabilir. MicroPython'u kopyaladıktan sonra, Mahirkart'ı bilgisayarınızdan çıkarın ve tekrar bağlayın. Mahirkart artık MicroPython çalıştırmaya hazır.
+MahirKart'ı bilgisayarınıza bağlarken aynı zamanda üzerinde bulunan bootsel düğmesine basın. Bu sayede MahirKart bilgisayarınızda bir USB depolama aygıtı olarak görünecektir. [buraya tıklayarak](https://micropython.org/resources/firmware/rp2-pico-20230426-v1.20.0.uf2) MicroPython'ı indirip USB depolama aygıtına kopyalayarak kurabilirsiniz yada thonny sizin yerinize bu adımı yapabilir. MicroPython'u kopyaladıktan sonra, MahirKart'ı bilgisayarınızdan çıkarın ve tekrar bağlayın. MahirKart artık MicroPython çalıştırmaya hazır.
 
 ## LED'i Yakmak için Bir Proje Oluşturma
 
@@ -43,4 +43,4 @@ Kod çalıştırıldığında, LED yanacaktır.
 
 ## Sonuç
 
-Bu rehber, MicroPython ile Mahirkart'ı kullanmaya başlamanıza yardımcı olmuştur. Rehberin sonunda, bir LED'i yakmak için basit bir proje oluşturmayı öğrenmişsinizdir.
+Bu rehber, MicroPython ile MahirKart'ı kullanmaya başlamanıza yardımcı olmuştur. Rehberin sonunda, bir LED'i yakmak için basit bir proje oluşturmayı öğrenmişsinizdir.

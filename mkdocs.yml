@@ -10,8 +10,8 @@ markdown_extensions:
   - pymdownx.superfences
 theme:
   name: material
-  logo: src\svg\mahirkart logo V1.0.1 badge.svg
-  favicon: src\svg\MAHİRKART.svg
+  logo: src/svg/mahirkart logo V1.0.1 badge.svg
+  favicon: src/svg/MAHİRKART.svg
   features:
     - content.code.copy
     - content.code.select
