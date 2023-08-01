@@ -55,10 +55,14 @@ extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/BilalAlpaslan/MahirKart-docs
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCF7vLcl_LrbgDuhc3QTLn0w
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/AzAHFzzZ
     - icon: fontawesome/brands/instagram
       link: https://github.com/BilalAlpaslan/MahirKart-docs
     - icon: fontawesome/brands/linkedin
-      link: https://github.com/BilalAlpaslan/MahirKart-docs
+      link: https://www.linkedin.com/company/mahirkart-teknoloji
   analytics:
     provider: google
     property: G-DEXFWCSC1D
