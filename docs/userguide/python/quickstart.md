@@ -29,7 +29,7 @@ Mahirkart'ı bilgisayarınıza bağlarken aynı zamanda üzerinde bulunan bootse
 
 ## LED'i Yakmak için Bir Proje Oluşturma
 
-LED'i yakmak için basit bir proje oluşturmak için yeni bir belge oluşturun ve şağıdaki kodu ekleyin:
+LED'i yakmak için basit bir proje oluşturmak için yeni bir belge oluşturun ve aşğıdaki kodu ekleyin:
 
 ```python 
 import machine
