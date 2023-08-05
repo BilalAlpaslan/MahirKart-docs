@@ -2,7 +2,7 @@
 
 MicroPython, Python programlama dilinin küçük bir sürümüdür ve MahirKart gibi geliştirme kartlarının üzerinde çalışacak şekilde tasarlanmıştır. 
 
-Bu rehber, MicroPython ile MahirKart'ı kullanmaya başlamanıza yardımcı olacaktır. Geliştirme ortamını kurmak, MicroPython'u MahirKart'a yüklemek ve LED yaktığımı basit bir proje oluşturmak için adım adım talimatlar içerir.
+Bu rehber, MicroPython ile MahirKart'ı kullanmaya başlamanıza yardımcı olacaktır. Geliştirme ortamını kurmak, MicroPython'u MahirKart'a yüklemek ve LED yaktığımız basit bir proje oluşturmak için adım adım talimatlar içerir.
 
 ## Gereksinimler
 

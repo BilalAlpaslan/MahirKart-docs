@@ -79,10 +79,10 @@ nav:
       - userguide/arduino/dijital-input-output.md
     - C/C++:
       - userguide/c/quickstart.md  
-    - Rust:
-      - userguide/rust/quickstart.md
     - JavaScipt:
       - userguide/javascript/quickstart.md
+    - Rust:
+      - userguide/rust/quickstart.md
   # - Advanced User Guide
   # - Blogs
   - external-resources.md
