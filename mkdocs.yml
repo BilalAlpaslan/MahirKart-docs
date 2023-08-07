@@ -74,6 +74,7 @@ nav:
   - Kullanım Kılavuzu:
     - Python: 
       - userguide/python/quickstart.md
+      - userguide/python/dijital-giriş-çıkış.md
     - Arduino:
       - userguide/arduino/quickstart.md
       - userguide/arduino/dijital-input-output.md
