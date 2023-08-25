@@ -29,7 +29,7 @@ pm = machine.ADC(29)
 Daha sonra potansiyometremizin orta bacağına bağladığımız 29. pine ADC(Analog-Digital Converter) sınıfı ataması yapıyoruz.
 
 ``` Python
-While True :
+while True :
     value = pm.read()
     print("Potansiyometreden okunan değer :", value)
     time.sleep(0.1)
