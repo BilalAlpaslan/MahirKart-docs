@@ -23,7 +23,7 @@ Eğer havacılık ve uzay ile ilgileniyorsanız, MahirKart topluluğunu ziyaret 
 
 Discord sunucumuza katılarak MahirKart topluluğunun bir parçası olabilirsiniz. Discord sunucumuzda, MahirKart hakkında bilgi edinebilir, deneyimlerinizi paylaşabilir ve yeni arkadaşlar edinebilirsiniz.
 
-[Discord](https://discord.gg/AzAHFzzZ) sunucumuza katılmak için [buraya](https://discord.gg/AzAHFzzZ) tıklayın.
+[Discord](https://discord.gg/YVc68SrGJK) sunucumuza katılmak için [buraya](https://discord.gg/YVc68SrGJK) tıklayın.
 
 Sosyal medya hesaplarımızı da takip edebilirsiniz:
 
