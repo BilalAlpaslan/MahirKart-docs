@@ -1,4 +1,8 @@
 # Arduino - Hızlı Başlangıç
+
+<!-- keywords: Arduino ile Gömülü Programlama, Arduino ile MahirKart Programlama, Arduino ile MahirKart Kullanımı, Arduino ile MahirKart Hızlı Başlangıç, Arduino ile MahirKart LED Yakma, Arduino ile MahirKart LED Blink -->
+<meta name="description" content="Arduino ile Gömülü Programlama, Arduino ile MahirKart Programlama, Arduino ile MahirKart Kullanımı, Arduino ile MahirKart Hızlı Başlangıç, Arduino ile MahirKart LED Yakma, Arduino ile MahirKart LED Blink">
+
 Arduino, MahirKart gibi birçok geliştirme kartını programlayabildiğimiz bir yazılım dilidir. 
 
 Bu rehber, Arduino ile MahirKart'ı kullanmaya başlamanıza yardımcı olacaktır. Geliştirme ortamını kurmak, Arduino kodunu MahirKart'a yüklemek ve LED yaktığımı basit bir proje oluşturmak için adım adım talimatlar içerir.
