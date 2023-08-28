@@ -57,7 +57,7 @@ C:\VSMHR\armcc bu yolu seçtiğinizde ise “Hedef Dizin” kutusu aşağıdaki 
 Böylece GNU Arm Embedded Toolchain kurulumunu bitirmiş olduk. Şimdi diğer adıma geçelim.
 
 ## MinGW-w64 GCC Toolchain Kurulumu
-MinGW, Windows için uygulamalar geliştirmenize olanak taıyan derleyiciler v bağlayıcılar gibi açık kaynaklı yardımcı programlardan oluşan bir koleksiyondur. MahirKart’da kullanılmak üzere MinGW-w64(8.10) i686-posix-sjlj.zip dosyasını indireceğiz. https://sourceforge.net/projects/mingw-w64/files/ bu siteye gidip aşağıya kaydırıp i686-posix-sjlj dosyasına tıklayacaksınız.
+MinGW, Windows için uygulamalar geliştirmenize olanak tanıyan derleyiciler ve bağlayıcılar gibi açık kaynaklı yardımcı programlardan oluşan bir koleksiyondur. MahirKart’da kullanılmak üzere MinGW-w64(8.10) i686-posix-sjlj.zip dosyasını indireceğiz. https://sourceforge.net/projects/mingw-w64/files/ bu siteye gidip aşağıya kaydırıp i686-posix-sjlj dosyasına tıklayacaksınız.
 
 <div style="text-align:center;">
     <img src="/userguide/c/img/Resim5.png"  style="width: auto;" />
@@ -116,7 +116,7 @@ Yukarıdaki yola gittiğinizde önünüze  bu sayfa gelecektir. Bu sayfadanda ok
     <img src="/userguide/c/img/Resim11.png"  style="width: auto;" />
 </div>
 
-Bu işlemi de başarıyla tamamladık ve bir sonraki adıma geçtik. Çok fazla adımdan geçtik biliyoruz ama az kaldı.
+Bu işlemi de başarıyla tamamladık ve bir sonraki adıma geçtik.
 
 ## Git Kurulumu
 
