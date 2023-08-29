@@ -2,7 +2,7 @@
 
 C, MahirKart gibi birçok geliştirme kartını programlayabildiğimiz bir yazılım dilidir.
 
-Bu rehber, C ile MahirKart'ı kullanmaya başlamanıza yardımcı olacaktır. Geliştirme ortamını kurmak, C kodunu MahirKart'a yüklemek ve LED yaktığımı basit bir proje oluşturmak için adım adım talimatlar içerir.
+Bu rehber, C ile MahirKart'ı kullanmaya başlamanıza yardımcı olacaktır. Geliştirme ortamını kurmak, C kodunu MahirKart'a yüklemek ve LED yaktığımız basit bir proje oluşturmak için adım adım talimatlar içerir.
 
 ## Gereksinimler
 
@@ -13,7 +13,7 @@ Bu rehber, C ile MahirKart'ı kullanmaya başlamanıza yardımcı olacaktır. Ge
 * Gerekli olan bir kaç Tool
 
 ## Geliştirme Ortamı
-C ile programlama yapabilmek için öncelikle birkaç eklenti kurmamız gerekecektir. Geliştirme ortamı olarak Visual Code kullanılacaktır. İsterseniz başka bir geliştirme ortamı da kullanabilirsiniz. Öncelikle bilgisayarınızda birkaç aracın kurulu olması gerekmektedir. Adım adım hepsi anlatılacaktır.
+C ile programlama yapabilmek için öncelikle birkaç eklenti kurmamız gerekecektir. Geliştirme ortamı olarak Visual Code kullanılacaktır. İsterseniz başka bir geliştirme ortamı da kullanabilirsiniz. Adım adım hepsi anlatılacaktır.
 
 ## Dizin Kurulumu
 
@@ -26,7 +26,7 @@ C sürücünüzün en üst dizinine VSMHR adlı bir klasör oluşturun. Ardında
 *	mingw	(Dizini şu şekilde olmalı C:\VSMHR\mingw)
 *	sdk 	(Dizini şu şekilde olmalı C:\VSMHR\sdk)
 
-Yukarıdaki 4 klasörü VSMHR klasörünün altına oluşturduğunuzda Görsel-1 ‘deki gibi klasör yapısına sahip olmalısınız
+Yukarıdaki 4 klasörü VSMHR klasörünün altına oluşturduğunuzda aşağıdaki görsel gibi klasör yapısına sahip olmalısınız.
 
 <div style="text-align:center;">
     <img src="/userguide/c/img/Resim1.png"  style="width: auto;" />
@@ -36,13 +36,13 @@ Yukarıdaki 4 klasörü VSMHR klasörünün altına oluşturduğunuzda Görsel-1
 
 GNU Arm Embedded Toolchain, RP2040 işlemcisinde C ve C++ kodunu derlemek için ihtiyaç duyulan Arm GCC derleyicisini içerir. https://developer.arm.com/downloads/-/gnu-rm sayfasına gidin ve Windows için en son yükleyiciyi indirin. 
 
-Exe’yi çalıştırdıktan sonra hedef dizin seçiminde “Gözat” a tıklayıp C:\VSMHR\armcc yolunu seçin
+Exe’yi çalıştırdıktan sonra hedef dizin seçiminde “Gözat” a tıklayıp C:\VSMHR\armcc yolunu seçin.
 
 <div style="text-align:center;">
     <img src="/userguide/c/img/Resim2.png"  style="width: auto;" />
 </div>
 
-C:\VSMHR\armcc bu yolu seçtiğinizde ise “Hedef Dizin” kutusu aşağıdaki gibi olacaktır. (İndirdiğiniz sürüme bağlı olarak armcc\ den sonraki kısım değişiklik gösterecektir.)
+"C:\VSMHR\armcc" bu yolu seçtiğinizde ise “Hedef Dizin” kutusu aşağıdaki gibi olacaktır. (İndirdiğiniz sürüme bağlı olarak armcc\ den sonraki kısım değişiklik gösterecektir.)
 
 <div style="text-align:center;">
     <img src="/userguide/c/img/Resim3.png"  style="width: auto;" />
