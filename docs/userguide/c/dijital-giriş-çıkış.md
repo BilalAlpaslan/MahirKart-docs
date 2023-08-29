@@ -137,3 +137,6 @@ Ve buildi alalım.
 
 Karta yükleyeceğimiz .uf2 dosyasını bu sayede görebileceksiniz. Şimdi iste Mahir Kartı bilgisayarınıza bootsel butonuna basarak yükleyin ve .uf2 uzantılı dosyasınızı kartın içine atın.
 
+<div style="text-align:center;">
+    <img src="/userguide/c/img/bootsel-dijital.jpg"  style="width: auto;" />
+</div>
