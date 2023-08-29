@@ -24,7 +24,9 @@ MahirKart'da dijital giriş pinleri, genellikle sensörlerden ve diğer cihazlar
 
 İlk olarak kütüphanelerimizi koda dahil ediyoruz ve buton ile ledi takacağımız pinleri tanımlıyoruz.
 ```c
-#include "pico/stdlib.h"  // Gerekli kütüphanenin dahil edilmesi
+// Gerekli kütüphanenin dahil edilmesi
+#include "pico/stdlib.h"  
+#include "hardware/gpio.h"
 
 // Butonu ve ledi bağladığımız pinleri tanımlıyoruz.
 #define button_pin 29
