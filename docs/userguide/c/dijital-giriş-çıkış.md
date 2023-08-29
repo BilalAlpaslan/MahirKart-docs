@@ -128,17 +128,17 @@ Ve buildi alalım.
 </div>
 
 <div style="text-align:center;">
-    <img src="/userguide/c/img/make-dijital.jpg"  style="width: auto;" />
+    <img src="/userguide/c/img/make-dijital.png"  style="width: auto;" />
 </div>
 
 İhtayıcımız olan .uf2 uzantılı dosyayı build etmiş bulunmaktayız. Build klasörüne sağ tıklayıp Reveal in File Explorer’ a basın
 
 <div style="text-align:center;">
-    <img src="/userguide/c/img/revial-dijital.jpg"  style="width: auto;" />
+    <img src="/userguide/c/img/revial-dijital.png"  style="width: auto;" />
 </div>
 
 Karta yükleyeceğimiz .uf2 dosyasını bu sayede görebileceksiniz. Şimdi iste Mahir Kartı bilgisayarınıza bootsel butonuna basarak yükleyin ve .uf2 uzantılı dosyasınızı kartın içine atın.
 
 <div style="text-align:center;">
-    <img src="/userguide/c/img/bootsel-dijital.jpg"  style="width: auto;" />
+    <img src="/userguide/c/img/bootsel-dijital.png"  style="width: auto;" />
 </div>
