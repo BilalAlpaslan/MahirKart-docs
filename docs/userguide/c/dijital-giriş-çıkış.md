@@ -113,3 +113,15 @@ Visual Code’dan terminal açın. Terminaliniz bash olsun. Bulunduğunuz dizin 
 Ardından build klasörünün içine girelim
 •	cd build 
 
+<div style="text-align:center;">
+    <img src="/userguide/c/img/cd-build-gpio.jpg"  style="width: auto;" />
+</div>
+
+Ve buildi alalım.
+•	cmake -G “MinGW Makefiles” ..
+•	make
+
+<div style="text-align:center;">
+    <img src="/userguide/c/img/cd-build-gpio.jpg"  style="width: auto;" />
+</div>
+
