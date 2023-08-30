@@ -82,7 +82,7 @@ nav:
     - C/C++:
       - userguide/c/quickstart.md
       - userguide/c/dijital-giriş-çıkış.md    
-    - JavaScipt:
+    - JavaScript:
       - userguide/javascript/quickstart.md
     - Rust:
       - userguide/rust/quickstart.md
