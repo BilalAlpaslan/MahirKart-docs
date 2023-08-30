@@ -1,6 +1,9 @@
 # JavaScript - Hızlı Başlangıç
 
-Bu rehber, JavaScript ile MahirKart'ı programlamaya başlamanıza yardımcı olacaktır. Geliştirme ortamını kurmak, JavaScript kodumuzu MahirKart'a yüklemek ve LED yaktığımız basit bir proje oluşturmak için adım adım talimatlar içerir.
+<!-- keywords: Javascript ile Gömülü Programlama, JavaScript ile MahirKart Programlama, JavaScript ile MahirKart Kullanımı, JavaScript ile MahirKart Hızlı Başlangıç, JavaScript ile MahirKart LED Yakma, JavaScript ile MahirKart LED Blink -->
+<meta name="description" content="Javascript ile Gömülü Programlama, JavaScript ile MahirKart Programlama, JavaScript ile MahirKart Kullanımı, JavaScript ile MahirKart Hızlı Başlangıç, JavaScript ile MahirKart LED Yakma, JavaScript ile MahirKart LED Blink">
+
+**JavaScript**, web sayfalarında kullanıldığı gibi, gömülü sistemlerde de kullanılabilir. MahirKart, JavaScript ile programlanabilir. Bu rehberde, JavaScript ile MahirKart'ı kullanmaya başlamak için gereken adımlar anlatılmaktadır.  Geliştirme ortamını kurmak, JavaScript kodumuzu MahirKart'a yüklemek ve LED yaktığımız basit bir proje oluşturmak için gerekli adımlar anlatılmaktadır.
 
 ## Gereksinimler
 

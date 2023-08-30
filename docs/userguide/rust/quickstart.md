@@ -1,5 +1,8 @@
 # Rust - Hızlı Başlangıç
 
+<!-- keywords: Rust ile Gömülü Programlama, Rust ile MahirKart Programlama, Rust ile MahirKart Kullanımı, Rust ile MahirKart Hızlı Başlangıç, Rust ile MahirKart LED Yakma, Rust ile MahirKart LED Blink -->
+<meta name="description" content="Rust ile Gömülü Programlama, Rust ile MahirKart Programlama, Rust ile MahirKart Kullanımı, Rust ile MahirKart Hızlı Başlangıç, Rust ile MahirKart LED Yakma, Rust ile MahirKart LED Blink">
+
 Bu rehber, Rust ile MahirKart'ı kullanmaya başlamanıza yardımcı olacaktır. Geliştirme ortamını kurmak, Rust kodumuzu MahirKart'a yüklemek ve LED yaktığımız basit bir proje oluşturmak için adım adım talimatlar içerir.
 
 ## Gereksinimler

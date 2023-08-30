@@ -8,7 +8,7 @@
 ## MahirKart ile ilgili resmi kaynaklar
 - [MahirKart Resmi Web Sitesi](https://mahirkart.net)
 - [MahirKart Resmi Dokümantasyonu](https://docs.mahirkart.net)
-- [MahirKart Resmi Discord Sunucusu](https://discord.gg/37EnEBdX)
+- [MahirKart Resmi Discord Sunucusu](https://discord.gg/YVc68SrGJK)
 - [MahirKart Örnek projeler Github reposu](https://github.com/BilalAlpaslan/mahirkart-examples)
 
 ## MahirKart ile ilgili harici kaynaklar

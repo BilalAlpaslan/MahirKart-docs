@@ -35,5 +35,9 @@ while True :
     time.sleep(0.1)
 ```
 
+<<<<<<< HEAD
 Son olarak ise "While" döngüsü içerisinde 29. pinden gelen değeri anlık olarak "value" değişkenine atayıp daha sonra bu değeri  yazdırıyoruz. Ayrıca bu işlemin gözle görülür gerçekleşmesi için "time.sleep(0.1)" kullanıyoruz. Kodumuz hazır kendiniz de farklı kod denelemeleri yaparak <a href="https://discord.com/invite/AzAHFzzZ">Discord</a> sunucumuzda paylaşabilir ve topluluğumuza destek olabilirsiniz. 
+=======
+Son olarak ise "While" döngüsü içerisinde 29. pinden gelen değeri anlık olarak "value" değişkenine atayıp daha sonra bu değeri  yazdırıyoruz. Ayrıca bu işlemin gözle görülür gerçekleşmesi için "time.sleep(0.1)" kullanıyoruz. Kodumuz hazır kendiniz de farklı kod denelemeleri yapark <a href="https://discord.com/invite/YVc68SrGJK">Discord</a> sunucumuzda paylaşabilir ve topluluğumuza destek olabilirsiniz. 
+>>>>>>> e5c2ce01506e595ca944a441f7f884d056412d8e
 
