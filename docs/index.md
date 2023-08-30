@@ -20,7 +20,7 @@ MahirKart ile yapabilecekleriniz sadece sizin hayal gücünüzle sınırlı. Mah
 [Hızlı Başlangıç](/quickstart/) sayfasına ilerleyerek MahirKartı nasıl kullanabileceğinizi öğrenebilirsiniz.
 
 ## MahirKart nelere sahip?
-MahirKart RP2040(Arm Cortex-M0+) tabanlı bir <b>Aviyonik geliştirme kartıdır</b>. 144 MHz hızda çalışabilen çift çekirdekli işlemcisi ile yükse işlem gerektiren işlemler yapabilir, üzerindeki 2 MB harici flash bellek ile kodlarınızı ve verilerinizi kolayca depolayabilirsiniz. USB 1.1 desteği ile ara programlayıcı kullanmadan sadece bir USB-C kablo ile bilgisayarınıza bağlayarak programlayabilirsiniz. Donanımsal olarak 2 adet Uart, 2 adet I2C ve 2 adet SPI bulunmaktadır. Dahili Sensörleri ile sıcaklık, nem, basınc, 3 eksende eğim ve ivme ölçümleri yapabilirsiniz. 26 adet genel amaçlı pinden 4 adet pini analog okuma 2 adet pini de harici besleme seviyesinde motor sürme yada fünye tetikleme gibi işlemler için kullanabilirsiniz.
+MahirKart RP2040(Arm Cortex-M0+) tabanlı bir <b>Aviyonik geliştirme kartıdır</b>. 144 MHz hızda çalışabilen çift çekirdekli işlemcisi ile yüksek işlem gerektiren işlemler yapabilir, üzerindeki 2 MB harici flash bellek ile kodlarınızı ve verilerinizi kolayca depolayabilirsiniz. USB 1.1 desteği ile ara programlayıcı kullanmadan sadece bir USB-C kablo ile bilgisayarınıza bağlayarak programlayabilirsiniz. Donanımsal olarak 2 adet Uart, 2 adet I2C ve 2 adet SPI bulunmaktadır. Dahili Sensörleri ile sıcaklık, nem, basınc, 3 eksende eğim ve ivme ölçümleri yapabilirsiniz. 26 adet genel amaçlı pinden 4 adet pini analog okuma 2 adet pini de harici besleme seviyesinde motor sürme yada fünye tetikleme gibi işlemler için kullanabilirsiniz.
 
 Daha fazla teknik bilgi için [Özellikler](/features/) bölümüne bakabilirsiniz.
 
