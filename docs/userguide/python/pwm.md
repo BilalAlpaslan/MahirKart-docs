@@ -1,4 +1,4 @@
-# Pwm
+# PWM
 
 ## PWM (Pulse Width Modulation) Nedir?
 
