@@ -26,3 +26,5 @@ while True:
         print(data) # Veriyi yazdırıyoruz.
     time.sleep(1)
 ```
+
+Eğer aklınızda kalan sorular varsa [Discord](https://discord.com/invite/YVc68SrGJK) sunucumuz üzerinden sorabilirsiniz.
