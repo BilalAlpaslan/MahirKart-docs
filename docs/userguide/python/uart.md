@@ -19,7 +19,6 @@ from machine import Pin,UART
 import time
 
 uart = UART(0, baudrate=9600, tx=Pin(0), rx=Pin(1)) # UART0'ı 9600 baudrate ile kullanacağımızı belirtiyoruz. TX ve RX pinlerini de belirtiyoruz.
-uart.init()
 
 while True:
     if uart.any():  # UART üzerinden veri geldiğinde
