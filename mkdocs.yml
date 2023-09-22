@@ -82,6 +82,8 @@ nav:
       - userguide/arduino/quickstart.md
       - userguide/arduino/dijital-input-output.md
       - userguide/arduino/analog-giriş-çıkış.md
+      - userguide/arduino/computer-comunication.md
+      - userguide/arduino/pwm.md
     - C/C++:
       - userguide/c/quickstart.md
       - userguide/c/dijital-giriş-çıkış.md    
