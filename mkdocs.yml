@@ -78,6 +78,7 @@ nav:
       - userguide/python/analog-giriş-çıkış.md
       - userguide/python/computer-comunication.md
       - userguide/python/pwm.md
+      - userguide/python/uart.md
     - Arduino:
       - userguide/arduino/quickstart.md
       - userguide/arduino/dijital-input-output.md
