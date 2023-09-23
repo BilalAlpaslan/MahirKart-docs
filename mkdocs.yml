@@ -80,6 +80,7 @@ nav:
       - userguide/python/pwm.md
       - userguide/python/uart.md
       - userguide/python/i2c.md
+      - userguide/python/internal-sensor.md
     - Arduino:
       - userguide/arduino/quickstart.md
       - userguide/arduino/dijital-input-output.md
