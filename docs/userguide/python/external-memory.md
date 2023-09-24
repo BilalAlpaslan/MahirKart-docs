@@ -18,7 +18,7 @@ import os
 print(os.listdir()) # Harici bellek üzerindeki dosyaları listeliyoruz.
 ```
 
-## Yapabileceğiniz Dosya İşlemleri
+## Yapabileceğiniz Dğer Dosya İşlemleri
 
 ``` python
 import os
