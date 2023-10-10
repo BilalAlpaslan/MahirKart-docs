@@ -27,7 +27,7 @@ else:
     print(len(cihazlar),' adet i2c adres bulundu:')
 
 for cihaz in cihazlar:
-    print("Decimal adres: ",device," | Hex adres: ",hex(device))
+    print("Decimal adres: ",cihaz," | Hex adres: ",hex(cihaz))
 ```
 
 Eğer fazladan sensör takmadıysanız bu kodu çalıştırdığınızda çıktı olarak şöyle birşey göreceksiniz:
