@@ -55,3 +55,4 @@ MahirKart'ın pin yapısını [Pinout](/pinout/) sayfasından inceleyebilir ve p
 
 Bu yazı, MahirKart'ın analog giriş ve çıkışları hakkında temel bilgileri sunmaktadır.
 
+Eğer aklınızda kalan sorular varsa [Discord](https://discord.com/invite/YVc68SrGJK) sunucumuz üzerinden sorabilirsiniz.

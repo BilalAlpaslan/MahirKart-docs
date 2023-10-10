@@ -89,6 +89,7 @@ nav:
       - userguide/arduino/computer-comunication.md
       - userguide/arduino/pwm.md
       - userguide/arduino/uart.md
+      - userguide/arduino/i2c.md
     - C/C++:
       - userguide/c/quickstart.md
       - userguide/c/dijital-giriş-çıkış.md    

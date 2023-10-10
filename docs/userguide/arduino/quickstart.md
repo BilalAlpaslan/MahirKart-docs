@@ -89,3 +89,5 @@ Kodu düzenledikten sonra MahirKart'a yüklemek için aşağıdaki adımları iz
 ## Sonuç
 
 Bu rehber, Arduino ile MahirKart'ı kullanmaya başlamanıza yardımcı olmayı hedeflemiştir. Rehberin sonunda kendiniz de LED yakmak için basit bir proje oluşturmayı deneyebilirsiniz.
+
+Eğer aklınızda kalan sorular varsa [Discord](https://discord.com/invite/YVc68SrGJK) sunucumuz üzerinden sorabilirsiniz.

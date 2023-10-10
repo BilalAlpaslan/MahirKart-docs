@@ -52,3 +52,5 @@ MahirKart ile dijital giriş ve çıkışlar, daha karmaşık projelerde de kull
 MahirKart'ın pin yapısını [Pinout](/pinout/) sayfasından inceleyebilir ve projeleriniz için doğru pinleri seçebilirsiniz.
 
 Bu yazı, MahirKart'ın dijital giriş ve çıkışları hakkında temel bilgileri sunmaktadır.
+
+Eğer aklınızda kalan sorular varsa [Discord](https://discord.com/invite/YVc68SrGJK) sunucumuz üzerinden sorabilirsiniz.
