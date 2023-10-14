@@ -28,7 +28,7 @@ Thonny IDE'yi indirdikten sonra, bilgisayarınıza yükleyin.
 
 ## MahirKart'a MicroPython Kurulumu
 
-MahirKart'ı bilgisayarınıza bağlarken aynı zamanda üzerinde bulunan bootsel düğmesine basın. Bu sayede MahirKart bilgisayarınızda bir USB depolama aygıtı olarak görünecektir. [buraya tıklayarak](https://micropython.org/resources/firmware/rp2-pico-20230426-v1.20.0.uf2) MicroPython'ı indirip USB depolama aygıtına kopyalayarak kurabilirsiniz yada thonny sizin yerinize bu adımı yapabilir. MicroPython'u kopyaladıktan sonra, MahirKart'ı bilgisayarınızdan çıkarın ve tekrar bağlayın. MahirKart artık MicroPython çalıştırmaya hazır.
+MahirKart'ı bilgisayarınıza bağlarken aynı zamanda üzerinde bulunan bootsel düğmesine basın. Bu sayede MahirKart bilgisayarınızda bir USB depolama aygıtı olarak görünecektir. [buraya tıklayarak](https://micropython.org/resources/firmware/RPI_PICO-20231005-v1.21.0.uf2) MicroPython'ı indirip USB depolama aygıtına kopyalayarak kurabilirsiniz yada thonny sizin yerinize bu adımı yapabilir. MicroPython'u kopyaladıktan sonra, MahirKart'ı bilgisayarınızdan çıkarın ve tekrar bağlayın. MahirKart artık MicroPython çalıştırmaya hazır.
 
 ## LED'i Yakmak için Bir Proje Oluşturma
 
