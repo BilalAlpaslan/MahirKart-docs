@@ -18,6 +18,8 @@ Bu örnekte MahirKartın I2C hattındaki bağlı sensörleri tarayacağız. İst
 #include <Wire.h>
 
 void setup() {
+  Wire.setSDA(20);
+  Wire.setSCL(21);
   Wire.begin();
   Serial.begin(9600);
   Serial.println("I2C Cihazları Taranıyor...");
